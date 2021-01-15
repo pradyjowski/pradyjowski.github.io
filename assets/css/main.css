@@ -205,7 +205,7 @@ input, select, textarea {
 
 	h1 {
 		font-size: 3.5rem;
-		line-height: 1.2;
+		line-height: 1.1;
 	}
 
 	h2 {
@@ -2791,7 +2791,7 @@ input, select, textarea {
 		}
 
 			ul.actions.stacked li {
-				padding: 1.3rem 0 0 0;
+				padding: 0.4rem 0 0 0;
 			}
 
 				ul.actions.stacked li:first-child {
